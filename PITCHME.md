@@ -43,22 +43,27 @@ Kısa zaman alan yaklaşım. Sisteme zarar verme riski en az. Kısmi sistem ince
 #HSLIDE
 #### Etik Hackerda Bulunması Gereken Bilgiler-1?
 PLATFORM BİLGİSİ
+
 Windows, Unix ve Linux İşletim sistemleri hakkında derinlikli bir bilgiye sahip olmalıdır.
 #HSLIDE
 #### Etik Hackerda Bulunması Gereken Bilgiler-2?
 AĞ BİLGİSİ
+
 Ağ yapıları, topolojileri, ağ donanımı ve yazılımları hakkında detaylı bilgiye sahip olmalıdır.
 #HSLIDE
 #### Etik Hackerda Bulunması Gereken Bilgiler-3?
 BİLGİSAYAR BİLGİSİ
+
 İşletim Sistemi ile donanımın birlikte çalışma mantığı ve bilgisayar mimarisini çok iyi bilmelidir.
 #HSLIDE
 #### Etik Hackerda Bulunması Gereken Bilgiler-4?
 GÜVENLİK BİLGİSİ
+
 Güvenlik konusunda bilgili ve hangi bilginin ne kadar değerli olduğunu tespit edebilecek bir tecrübe sahibi olmalıdır.
 #HSLIDE
 #### Etik Hackerda Bulunması Gereken Bilgiler?
 TEKNİK BİLGİ
+
 Ağ ve bilgisayar mimarisinde kullanılan donanımların uyumluluğu vb. Teknik konularda yeterli seviyede bilgi sahibi olmalıdır.
 #HSLIDE
 #### Sızma Testi Aşamaları Nelerdir?
