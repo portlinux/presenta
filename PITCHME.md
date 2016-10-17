@@ -115,5 +115,5 @@ Yapılan testlerin sonucunda organizasyona bir sonuç raporu sunulmalıdır.
 #HSLIDE
 <a href="https://www.twitter.com/portlinux" target="_blank">@portlinux</a>
 #HSLIDE
-<a href="https://www.portlinux.com" target="_blank">Port Linuz </a>
+<a href="https://www.portlinux.com" target="_blank">Port Linux </a>
 <p>Bu sunumlar portlinux.com tarafından hazırlanmıştır. Kullanmak isterseniz atıfta bulunmanız bizi mutlu eder.</p>
