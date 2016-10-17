@@ -1,5 +1,6 @@
 Hoşgeldiniz!
 Bu sunumda hangi konuların ele alınacağını bir sonraki sayfadan inceleyebilirsiniz.
+<a href="https://www.twitter.com/portlinux" target="_blank">@portlinux</a>
 #HSLIDE
 #### Sunum Başlıkları
 * Sızma Testi Nedir?
@@ -114,5 +115,5 @@ Yapılan testlerin sonucunda organizasyona bir sonuç raporu sunulmalıdır.
 #HSLIDE
 <a href="https://www.twitter.com/portlinux" target="_blank">@portlinux</a>
 #HSLIDE
-[Port Linux](http://www.portlinux.com)
-Bu sunumlar portlinux.com tarafından hazırlanmıştır. Kullanmak isterseniz atıfta bulunmanız bizi mutlu eder.
+<a href="https://www.portlinux.com" target="_blank">Port Linuz </a>
+<p>Bu sunumlar portlinux.com tarafından hazırlanmıştır. Kullanmak isterseniz atıfta bulunmanız bizi mutlu eder.</p>
