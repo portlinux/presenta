@@ -112,7 +112,7 @@ Yapılan testlerin sonucunda organizasyona bir sonuç raporu sunulmalıdır.
  * Web sunucu
  * Modem, Router vb. 
 #HSLIDE
-www.twitter.com/portlinux
+[@portlinux](https://www.twitter.com/portlinux)
 #HSLIDE
 [Port Linux](http://www.portlinux.com)
 Bu sunumlar portlinux.com tarafından hazırlanmıştır. Kullanmak isterseniz atıfta bulunmanız bizi mutlu eder.
