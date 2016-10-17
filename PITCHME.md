@@ -1,7 +1,7 @@
 Hoşgeldiniz!
 Bu sunumda hangi konuların ele alınacağını bir sonraki sayfadan inceleyebilirsiniz.
 #HSLIDE
-# Sunum Başlıkları
+#### Sunum Başlıkları
 * Sızma Testi Nedir?
 * Sızma Testi Neden Gereklidir?
 * Yaklaşımları Nelerdir?
@@ -9,14 +9,15 @@ Bu sunumda hangi konuların ele alınacağını bir sonraki sayfadan inceleyebil
 * Sızma Testi Aşamaları Nelerdir?
 * Kişisel bir Laboratuvar Kurulumu?
 #HSLIDE
-# Sızma Testi Nedir?
+#### Sızma Testi Nedir?
 * Bilgisayar sistemi
 * Mantık hataları ve zafiyetler
 * Yetkili kişiler
 * Güvenlik testi
+
 Bilgisayar sistemlerindeki mantık hataları ve zafiyetleri bularak, bunların kötü niyetli kişiler tarafından istismar edilmesini önlemek ve sistemleri daha güvenli hale getirmek maksadıyla, yetkili kişiler tarafından ve yasal olarak gerçekleştirilen güvenlik testlerine “SIZMA TESTİ” “PENETRASYON TESTİ” denir.
 #HSLIDE
-# Sızma Testi Neden Gereklidir?
+#### Sızma Testi Neden Gereklidir?
 * Önceden tedbir almak
 * Terörizm ve ulusal güvenlik konuları
 * İdeal sisteme yaklaşmak için iyileştirme
