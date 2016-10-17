@@ -98,19 +98,19 @@ Yapılan testlerin sonucunda organizasyona bir sonuç raporu sunulmalıdır.
 #HSLIDE
 #### Laboratucar Kurmak için gerekenler:
 * Sanallaştırma Yazılımı
-	*VMWare Player
-	*Oracle Virtualbox
+ * VMWare Player
+ * Oracle Virtualbox
 #HSLIDE
 #### Laboratucar Kurmak için gerekenler:
 * Saldırı amaçlı İşletim Sistemi
-	*Kali Linux
-	*Black box
+ * Kali Linux
+ * Black box
 #HSLIDE
 #### Laboratucar Kurmak için gerekenler:
 * Hedef Sistem
-	*İşletim Sistemi
-	*Web sunucu
-	*Modem, Router vb. 
+ * İşletim Sistemi
+ * Web sunucu
+ * Modem, Router vb. 
 #HSLIDE
 www.twitter.com/portlinux
 #HSLIDE
