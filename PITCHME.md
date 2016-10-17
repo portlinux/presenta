@@ -3,4 +3,5 @@ Sunum İndeksi
 2. 
 #HSLIDE
 [Port Linux](http://www.portlinux.com)
-Bu sunumlar portlinux.com tarafından hazırlanmıştır. Kullanmak isterseniz atıfta bulunmanız bizi mutlu eder.
+
+>Bu sunumlar portlinux.com tarafından hazırlanmıştır. Kullanmak isterseniz atıfta bulunmanız bizi mutlu eder.
