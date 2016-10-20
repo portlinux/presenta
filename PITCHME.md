@@ -67,6 +67,9 @@ TEKNİK BİLGİ
 
 Ağ ve bilgisayar mimarisinde kullanılan donanımların uyumluluğu vb. Teknik konularda yeterli seviyede bilgi sahibi olmalıdır.
 #HSLIDE
+Okuma Tavsiyesi
+<a href="http://www.siberoloji.com/arastirma/siber-guvenlik-uzmani-yol-haritasi/" target="__blank">Bağlantı</a>
+#HSLIDE
 #### Sızma Testi Aşamaları Nelerdir?
 * Keşif
 * Tarama
@@ -97,17 +100,17 @@ Yapılan testlerin sonucunda organizasyona bir sonuç raporu sunulmalıdır.
 * Tavsiyeler
 * Referanslar
 #HSLIDE
-#### Laboratucar Kurmak için gerekenler:
+#### Laboratuvar Kurmak için gerekenler:
 * Sanallaştırma Yazılımı
  * VMWare Player
  * Oracle Virtualbox
 #HSLIDE
-#### Laboratucar Kurmak için gerekenler:
+#### Laboratuvar Kurmak için gerekenler:
 * Saldırı amaçlı İşletim Sistemi
  * Kali Linux
  * Black box
 #HSLIDE
-#### Laboratucar Kurmak için gerekenler:
+#### Laboratuvar Kurmak için gerekenler:
 * Hedef Sistem
  * İşletim Sistemi
  * Web sunucu
